@@ -1,0 +1,12 @@
+{
+  "verbose": true,
+   "ignoreRoot": [
+      "db/*.json",
+      "tests/*"
+    ],
+  "watch": [
+      "routes/*",
+      "db/*.js",
+      "app.js"
+    ]
+}

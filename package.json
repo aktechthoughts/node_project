@@ -1,0 +1,21 @@
+{
+  "name": "m1036338",
+  "version": "1.0.0",
+  "description": "RESTful API Service for Product Management System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node_modules/.bin/nodemon  app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M1036338",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "protractor": "^5.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
